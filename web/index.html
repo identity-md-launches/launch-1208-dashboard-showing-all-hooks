@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#faf9fb" />
+    <meta
+      name="description"
+      content="Explore Uniswap v4 hooks across networks. Search the hooklist registry, inspect hook permissions, and save deployments for later."
+    />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <link
+      rel="preload"
+      href="./fonts/dm-sans-latin.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <title>Hookbook — The Uniswap v4 hook directory</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript
+      >Hookbook needs JavaScript to search the registry.
+      <a href="./data/hooks.json">Download the complete hook data</a> or
+      <a href="https://github.com/Uniswap/hooklist">visit the source registry</a
+      >.</noscript
+    >
+    <script type="module" src="./src/main.tsx"></script>
+  </body>
+</html>

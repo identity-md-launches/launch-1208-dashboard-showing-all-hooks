@@ -1,0 +1,26 @@
+{
+  "repository": "https://github.com/Uniswap/hooklist",
+  "commit": "a15ee379aebc9c4f580a3ac0eb795f8fc9388500",
+  "commitDate": "2026-10-08T02:14:35Z",
+  "retrievedAt": "2026-10-09T20:54:15.057Z",
+  "files": {
+    "hooklist.json": {
+      "url": "https://raw.githubusercontent.com/Uniswap/hooklist/a15ee379aebc9c4f580a3ac0eb795f8fc9388500/hooklist.json",
+      "sha256": "aaf9f3fdd706c4ef6db275e78159f1aedc26122e2465c3b10237e0139ab70f42"
+    },
+    "hooklist-vanilla-swap.json": {
+      "url": "https://raw.githubusercontent.com/Uniswap/hooklist/a15ee379aebc9c4f580a3ac0eb795f8fc9388500/hooklist-vanilla-swap.json",
+      "sha256": "91a4a48bc455626f22827e8ecd69c79daf8ca6453fc9d3f0ba1a1da2adce0a22"
+    },
+    "chains.json": {
+      "url": "https://raw.githubusercontent.com/Uniswap/hooklist/a15ee379aebc9c4f580a3ac0eb795f8fc9388500/chains.json",
+      "sha256": "293a17172f429148ea0f48983067e1148b66ec1653b7789564b912672efbafa5"
+    },
+    "schema.json": {
+      "url": "https://raw.githubusercontent.com/Uniswap/hooklist/a15ee379aebc9c4f580a3ac0eb795f8fc9388500/schema.json",
+      "sha256": "ced720f0497a705244bb79c90c0f085209500ffb02b036144d0c683d9157fbf7"
+    }
+  },
+  "vanillaSwapCount": 713,
+  "hookCount": 4955
+}

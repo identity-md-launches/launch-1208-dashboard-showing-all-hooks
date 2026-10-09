@@ -1,0 +1,9 @@
+# Attribution
+
+- Registry data: [Uniswap/hooklist](https://github.com/Uniswap/hooklist), pinned to the commit and file hashes in `web/public/data/provenance.json`. The dashboard is an independent presentation and does not represent Uniswap routing approval. Hook names, descriptions, addresses, properties and permission flags are retained from upstream.
+- DM Sans: [Google Fonts, DM Sans](https://github.com/google/fonts/tree/main/ofl/dmsans), SIL Open Font License 1.1. The local Latin WOFF2 variable face supports normal weights 400–750. License: `docs/DM-Sans-OFL.txt` and the published `licenses/DM-Sans-OFL.txt`.
+- React and React DOM: MIT; Lucide React: ISC, with its included Feather-derived icon notices. The bundled runtime notices are in `web/public/licenses/THIRD-PARTY.txt` and `dist/licenses/THIRD-PARTY.txt`.
+- Better Interface design guidance: Jakub Krehel, MIT, commit `267330e1adfc66a718fb65fa6918c1f06d0a689e`, [source](https://github.com/jakubkrehel/skills/tree/267330e1adfc66a718fb65fa6918c1f06d0a689e/skills/better-interface). The pinned IMD adaptation supplied with this assignment guided implementation and review.
+- Design documentation method: Paul Bakaus, Impeccable, Apache-2.0, commit `9d715cc4f5564a990ca8345abfdd5df6dc9b41c8`, [source](https://github.com/pbakaus/impeccable/blob/9d715cc4f5564a990ca8345abfdd5df6dc9b41c8/skill/reference/document.md). Copyright 2025 Paul Bakaus. Applied here as an implementation-specific design record; neither upstream guide is reproduced as an application feature.
+
+Both design-guidance license texts and the Impeccable copyright notice are retained in `docs/design-guidance-LICENSE.txt`. The Hookbook symbol and decorative hook-network illustration were authored as SVG/CSS for this site. Colored hook initials identify names visually and are not project logos.
